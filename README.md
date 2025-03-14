@@ -15,7 +15,7 @@
 - 🚀 **PowerShell Empire & SharpHound** (Post-exploitation & reconnaissance)  
 
 📸 **Lab Architecture:**  
-![Active Directory Security Lab](https://onezeroone.dev/wp-content/uploads/2023/08/AD-Lab-Architecture.png)
+[Active Directory Security Lab](https://onezeroone.dev/active-directory-lab-part-i-architecture/)
 ---
 
 ## 🔍 Lab Objectives  
