@@ -19,6 +19,35 @@
 
 ---
 
+## 🔍 Lab Objectives  
+
+✔ **Simulate a Realistic AD Environment** – Set up a multi-tiered AD infrastructure.  
+✔ **Test Privilege Escalation Techniques** – Explore **Pass-the-Hash, Kerberoasting, and Golden Ticket Attacks**.  
+✔ **Monitor & Secure Active Directory** – Implement **SIEM solutions, monitoring logs, and intrusion detection**.  
+✔ **Defensive Strategies** – Harden **Group Policies, Kerberos settings, and account security**.  
+
+---
+
+## 📜 Attack & Defense Techniques  
+
+### 🔴 **Offensive Security - Common AD Attacks**
+- **Pass-the-Hash (PTH)**
+- **Kerberoasting**
+- **NTLM Relay Attacks**
+- **Golden Ticket / Silver Ticket Exploitation**
+- **DCSync Attack**
+- **Lateral Movement & Credential Dumping**
+
+### 🛡️ **Defensive Security - Hardening AD**
+- **Disable NTLM Authentication**
+- **Implement LAPS (Local Administrator Password Solution)**
+- **Enable Windows Event Logging for SIEM**
+- **Deploy Honeypot Accounts to Detect Attacks**
+- **Restrict PowerShell Remoting**
+- **Implement Just Enough Administration (JEA)**  
+
+---
+
 ## 🔗 Resources & Guides  
 
 - 📜 **[Active Directory Security Guide](https://adsecurity.org/)**  
